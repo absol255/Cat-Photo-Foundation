@@ -63,6 +63,6 @@ input {
 }
 
 .disclaimer {
-    margin: auto auto 0;
+    justify-self: flex-end;
     padding-bottom: 20px;
 }
